@@ -32,4 +32,4 @@
 
 ##
   
-![Snake animation](https://github.com/juanjosalco/juanjosalco/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/juanjosalco/juanjosalco/blob/output/github-contribution-grid-snake.svg)
