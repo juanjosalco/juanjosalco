@@ -1,4 +1,4 @@
-# ¡Hello Everyone! I'm Pilinzote && Welcome to my profile
+# ¡Hello Everyone! I'm Juan && Welcome to my profile
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjosalco&theme=radical&show_icons=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
